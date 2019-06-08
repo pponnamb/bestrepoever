@@ -2,4 +2,4 @@
 Best repository ever
 testing line1
 testing line2
-adding a line for branching conflict
+Added line new-branch-2
